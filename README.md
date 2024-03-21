@@ -15,7 +15,7 @@
 │   │   │                   │   └── ResponseDto.java
 │   │   │                   ├── handler/
 │   │   │                   │   ├── GlobalExceptionHandler.java
-│   │   │                   │   
+│   │   │                   │
 │   │   │                   ├── repository/
 │   │   │                   │   ├── AddressBookRepository.java
 │   │   │                   │   └── MemoryAddressBookRepository.java
